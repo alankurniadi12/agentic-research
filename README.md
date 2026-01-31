@@ -19,7 +19,7 @@ Install with npm
 To run tests, run the following command
 
 ```bash
-  node src/serves.js
+  node src/server.js
 ```
 
 
